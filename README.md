@@ -1,6 +1,6 @@
 # PasswordStrengthChecker (Java)
 
-Ein kleines Konsolenprogramm in Java, das überpüft. ob dein Passwort lang genug ist und ob es mindestens eine Zahl enthählt. 
+Ein kleines Konsolenprogramm in Java, das überpüft, ob dein Passwort lang genug ist und ob es mindestens eine Zahl enthählt. 
 
 ## Features 
 - Abfrage des Passwortes über Konsole
